@@ -1,0 +1,6 @@
+{
+  "name": "Retro 1945 Air Combat",
+  "description": "Classic 1945 arcade aerial combat game featuring 7 authentic fighter jets, 10 distinct level environments with custom backdrops, mothership carrier boss battles with tactical danmaku bullet patterns, and an ace pilot high score leaderboard.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
