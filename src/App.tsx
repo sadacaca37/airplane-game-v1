@@ -27,7 +27,7 @@ export default function App() {
   const [gameState, setGameState] = useState<GameState>('TITLE');
   const [gameMode, setGameMode] = useState<GameMode>('1P');
   const [selectedPlane, setSelectedPlane] = useState<PlaneId>('AV8_HARRIER');
-  const [selectedPlane2, setSelectedPlane2] = useState<PlaneId>('F22_RAPTOR');
+  const [selectedPlane2, setSelectedPlane2] = useState<PlaneId>('FA18_SUPER_HORNET');
   const [credits, setCredits] = useState<number>(3);
   const [highScores, setHighScores] = useState<HighScoreEntry[]>(() => {
     try {
